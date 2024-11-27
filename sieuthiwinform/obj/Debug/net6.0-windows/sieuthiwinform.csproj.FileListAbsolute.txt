@@ -1,0 +1,131 @@
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.exe
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.deps.json
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.runtimeconfig.json
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Form1.resources
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfo.cs
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.CopyComplete
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\refint\sieuthiwinform.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.genruntimeconfig.cache
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\ref\sieuthiwinform.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Splash.resources
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.category.resources
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.ProductForm.resources
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sellersForm.resources
+C:\Users\hoang\source\repos\sieuthiwinform\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.SellingForm.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.exe
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.deps.json
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.runtimeconfig.json
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.category.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Form1.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.ProductForm.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sellersForm.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.SellingForm.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Splash.resources
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.GenerateResource.cache
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfo.cs
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sourcelink.json
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiw.B30DD53B.Up2Date
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\refint\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.genruntimeconfig.cache
+C:\Users\PHONG VU\Downloads\C-quanlybanahang\C-quanlybanahang\sieuthiwinform\obj\Debug\net6.0-windows\ref\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.exe
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.deps.json
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.runtimeconfig.json
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.category.resources
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Form1.resources
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.ProductForm.resources
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sellersForm.resources
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.SellingForm.resources
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Splash.resources
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.GenerateResource.cache
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfo.cs
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sourcelink.json
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiw.B30DD53B.Up2Date
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\refint\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.genruntimeconfig.cache
+C:\Users\PHONG VU\Downloads\.net\Mạnh Hùng\sieuthiwinform\obj\Debug\net6.0-windows\ref\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.exe
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.deps.json
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.runtimeconfig.json
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.AssemblyReference.cache
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.category.resources
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Form1.resources
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.ProductForm.resources
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sellersForm.resources
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.SellingForm.resources
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.Splash.resources
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.GenerateResource.cache
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfoInputs.cache
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.AssemblyInfo.cs
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.csproj.CoreCompileInputs.cache
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.sourcelink.json
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiw.B30DD53B.Up2Date
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\refint\sieuthiwinform.dll
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.pdb
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\sieuthiwinform.genruntimeconfig.cache
+C:\Users\PHONG VU\Downloads\.net\sieuthimini_nhom4\Siêu thị mini\sieuthiwinform\obj\Debug\net6.0-windows\ref\sieuthiwinform.dll
